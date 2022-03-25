@@ -1,0 +1,15 @@
+{
+  "gameInfo": [
+    {
+      "gameName": "Lone Survivor",
+      "numbersOfPlayers": 1,
+      "GameInfo": "A plane crashes into forest with 1 survivor (yourself). Goal is to make it back to civilization or survive until rescue",
+      "survivalDays": 3,
+      "gameLevels": ["easy", "medium", "hard"],
+      "rating": 5.0,
+      "releaseYear": 2022,
+      "country": "USA"
+
+    }
+  ]
+}
