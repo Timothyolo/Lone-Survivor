@@ -10,13 +10,13 @@ public class QuitGame {
     }
 
 
-//    public static void main(String[] args){
-//        Scanner inputObj = new Scanner(System.in);  // Create a Scanner object
-//        System.out.println("Please enter 'quit' to quit the game ");
-//        String userResponse = inputObj.nextLine();
-//        QuitGame.checkQuit(userResponse);
-//
-//    }
+    public static void main(String[] args){
+        Scanner inputObj = new Scanner(System.in);  // Create a Scanner object
+        System.out.println("Please enter 'quit' to quit the game ");
+        String userResponse = inputObj.nextLine();
+        QuitGame.checkQuit(userResponse);
+
+    }
 }
 
 
